@@ -1,0 +1,15 @@
+# Compiled binary
+octocrew
+github-gitops-gen
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Generated output — org subdirectories and stray YAML files
+# These are produced at runtime and should not be committed
+*.yaml
+*/
+
